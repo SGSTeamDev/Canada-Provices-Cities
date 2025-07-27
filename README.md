@@ -22,7 +22,6 @@ The main dataset is provided in nested JSON format like this:
   }
 ]
 ```
-````
 
 ---
 
